@@ -1,4 +1,4 @@
-package temple-kun
+package temple
 
 import (
 	"fmt"

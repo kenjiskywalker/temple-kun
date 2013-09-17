@@ -1,1 +1,1 @@
-web: temple-kun
+web: temple
