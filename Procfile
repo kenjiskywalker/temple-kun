@@ -1,1 +1,1 @@
-web: ./temple-kun -port $PORT
+web: temple-kun
