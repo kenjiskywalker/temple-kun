@@ -11,5 +11,5 @@ func init() {
 }
 
 func handler(rw http.ResponseWriter, req *http.Request) {
-	fmt.Fprintf(rw, "%s\n", req.RemoteAddr)
+	fmt.Fprintf(rw, "%s", req.RemoteAddr)
 }
